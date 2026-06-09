@@ -1,6 +1,8 @@
 [submodule "CDPortfolio/CDWebsite"]
 	path = CDPortfolio/CDWebsite
 	url = https://github.com/cl0udt3nthedev/CDWebsite.git
+	branch = master
 [submodule "net-lab"]
 	path = net-lab
 	url = https://github.com/cl0udt3nthedev/net-lab.git
+	branch = master
